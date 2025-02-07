@@ -1,0 +1,22 @@
+[
+    {
+        "id": "DIR-001",
+        "name": "Christopher Nolan",
+        "description": "A visionary filmmaker known for his intricate narratives and groundbreaking visuals.",
+        "age": 53,
+        "isActive": true,
+        "birthDate": "1970-07-30",
+        "imageUrl": "https://example.com/images/directors/nolan.jpg",
+        "nationality": "British-American",
+        "awards": ["Academy Award", "BAFTA", "Golden Globe"],
+        "notableMovies": ["Inception", "The Dark Knight", "Interstellar", "Dunkirk", "Tenet"],
+        "filmCompany": {
+          "id": "COMP-001",
+          "name": "Syncopy",
+          "foundedYear": 2001,
+          "founder": "Christopher Nolan",
+          "headquarters": "Los Angeles, USA",
+          "logoUrl": "https://example.com/images/companies/syncopy-logo.jpg"
+        }
+      }
+]

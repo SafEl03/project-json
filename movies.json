@@ -1,0 +1,38 @@
+[
+    {
+        "id": "CIN-001",
+        "name": "Inception",
+        "description": "A mind-bending thriller that explores the depths of dreams and reality.",
+        "releaseYear": 2010,
+        "isPopular": true,
+        "releaseDate": "2010-07-16",
+        "imageUrl": "https://example.com/images/inception.jpg",
+        "genre": "Science Fiction",
+        "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+        "director": {
+          "id": "DIR-001",
+          "name": "Christopher Nolan",
+          "nationality": "British-American",
+          "awards": 10,
+          "imageUrl": "https://example.com/images/directors/nolan.jpg"
+        }
+      },
+      {
+        "id": "CIN-002",
+        "name": "The Dark Knight",
+        "description": "Batman faces off against his greatest foe, the Joker, in this dark and intense superhero film.",
+        "releaseYear": 2008,
+        "isPopular": true,
+        "releaseDate": "2008-07-18",
+        "imageUrl": "https://example.com/images/dark-knight.jpg",
+        "genre": "Action",
+        "actors": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+        "director": {
+          "id": "DIR-001",
+          "name": "Christopher Nolan",
+          "nationality": "British-American",
+          "awards": 10,
+          "imageUrl": "https://example.com/images/directors/nolan.jpg"
+        }
+      }
+]
