@@ -24,7 +24,7 @@
         "releaseYear": 1994,
         "isPopular": true,
         "releaseDate": "1994-10-14",
-        "imageUrl": "https://example.com/images/pulp-fiction.jpg",
+        "imageUrl": "assets/movies/PulpFiction.jpeg",
         "genre": "Crime",
         "actors": ["John Travolta", "Samuel L. Jackson", "Uma Thurman"],
         "director": {
@@ -42,7 +42,7 @@
         "releaseYear": 1993,
         "isPopular": true,
         "releaseDate": "1993-12-15",
-        "imageUrl": "https://example.com/images/schindlers-list.jpg",
+        "imageUrl": "assets/movies/Schindler'sList.jpeg",
         "genre": "Drama",
         "actors": ["Liam Neeson", "Ralph Fiennes", "Ben Kingsley"],
         "director": {
@@ -60,7 +60,7 @@
         "releaseYear": 2019,
         "isPopular": true,
         "releaseDate": "2019-05-30",
-        "imageUrl": "https://example.com/images/parasite.jpg",
+        "imageUrl": "assets/movies/Parasite.jpeg",
         "genre": "Thriller",
         "actors": ["Song Kang-ho", "Lee Sun-kyun", "Cho Yeo-jeong"],
         "director": {
@@ -78,7 +78,7 @@
         "releaseYear": 2014,
         "isPopular": true,
         "releaseDate": "2014-03-28",
-        "imageUrl": "https://example.com/images/grand-budapest-hotel.jpg",
+        "imageUrl": "assets/movies/TheGrandBudapestHotel.jpeg",
         "genre": "Comedy",
         "actors": ["Ralph Fiennes", "F. Murray Abraham", "Mathieu Amalric"],
         "director": {
@@ -96,7 +96,7 @@
         "releaseYear": 2015,
         "isPopular": true,
         "releaseDate": "2015-05-15",
-        "imageUrl": "https://example.com/images/mad-max-fury-road.jpg",
+        "imageUrl": "assets/movies/MadMax.jpeg",
         "genre": "Action",
         "actors": ["Tom Hardy", "Charlize Theron", "Nicholas Hoult"],
         "director": {
@@ -114,7 +114,7 @@
         "releaseYear": 2017,
         "isPopular": true,
         "releaseDate": "2017-12-01",
-        "imageUrl": "https://example.com/images/shape-of-water.jpg",
+        "imageUrl": "assets/movies/TheShapeofWater.jpeg",
         "genre": "Fantasy",
         "actors": ["Sally Hawkins", "Doug Jones", "Michael Shannon"],
         "director": {
@@ -132,7 +132,7 @@
         "releaseYear": 2012,
         "isPopular": true,
         "releaseDate": "2012-12-25",
-        "imageUrl": "https://example.com/images/django-unchained.jpg",
+        "imageUrl": "assets/movies/DjangoUnchained.jpeg",
         "genre": "Western",
         "actors": ["Jamie Foxx", "Christoph Waltz", "Leonardo DiCaprio"],
         "director": {
@@ -150,7 +150,7 @@
         "releaseYear": 2015,
         "isPopular": true,
         "releaseDate": "2015-12-25",
-        "imageUrl": "https://example.com/images/the-revenant.jpg",
+        "imageUrl": "assets/movies/TheRevenant.jpeg",
         "genre": "Adventure",
         "actors": ["Leonardo DiCaprio", "Tom Hardy", "Domhnall Gleeson"],
         "director": {
@@ -168,7 +168,7 @@
         "releaseYear": 2014,
         "isPopular": true,
         "releaseDate": "2014-10-10",
-        "imageUrl": "https://example.com/images/whiplash.jpg",
+        "imageUrl": "assets/movies/Whiplash.jpeg",
         "genre": "Drama",
         "actors": ["Miles Teller", "J.K. Simmons", "Paul Reiser"],
         "director": {
