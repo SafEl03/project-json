@@ -1,0 +1,202 @@
+[
+    {
+        "id": "DIR-001",
+        "name": "Christopher Nolan",
+        "description": "A visionary filmmaker known for his intricate narratives and groundbreaking visuals.",
+        "age": 53,
+        "isActive": true,
+        "birthDate": "1970-07-30",
+        "imageUrl": "https://github.com/SafEl03/project-json/blob/main/assets/directors/Christopher%20Nolan.jpeg?raw=true",
+        "nationality": "British-American",
+        "awards": ["Academy Award", "BAFTA", "Golden Globe"],
+        "notableMovies": ["Inception", "The Dark Knight", "Interstellar", "Dunkirk", "Tenet"],
+        "filmCompany": {
+          "id": "COMP-001",
+          "name": "Syncopy",
+          "foundedYear": 2001,
+          "founder": "Christopher Nolan",
+          "headquarters": "Los Angeles, USA",
+          "logoUrl": "https://example.com/images/companies/syncopy-logo.jpg"
+        }
+      },
+      {
+        "id": "DIR-002",
+        "name": "Quentin Tarantino",
+        "description": "An iconic director known for his stylized storytelling and genre-blending films.",
+        "age": 60,
+        "isActive": true,
+        "birthDate": "1963-03-27",
+        "imageUrl": "https://github.com/SafEl03/project-json/blob/main/assets/directors/QuentinTarantino.jpeg?raw=true",
+        "nationality": "American",
+        "awards": ["Academy Award", "BAFTA", "Golden Globe"],
+        "notableMovies": ["Pulp Fiction", "Kill Bill", "Django Unchained", "Inglourious Basterds", "Once Upon a Time in Hollywood"],
+        "filmCompany": {
+          "id": "COMP-002",
+          "name": "A Band Apart",
+          "foundedYear": 1991,
+          "founder": "Quentin Tarantino",
+          "headquarters": "Los Angeles, USA",
+          "logoUrl": "https://example.com/images/companies/a-band-apart-logo.jpg"
+        }
+      },
+      {
+        "id": "DIR-003",
+        "name": "Steven Spielberg",
+        "description": "A legendary filmmaker whose work has defined blockbuster cinema for decades.",
+        "age": 77,
+        "isActive": true,
+        "birthDate": "1946-12-18",
+        "imageUrl": "https://github.com/SafEl03/project-json/blob/main/assets/directors/StevenSpielberg.jpeg?raw=true",
+        "nationality": "American",
+        "awards": ["Academy Award", "Golden Globe", "BAFTA"],
+        "notableMovies": ["Jaws", "E.T.", "Jurassic Park", "Saving Private Ryan", "Schindler's List"],
+        "filmCompany": {
+          "id": "COMP-003",
+          "name": "Amblin Entertainment",
+          "foundedYear": 1984,
+          "founder": "Steven Spielberg",
+          "headquarters": "Universal City, USA",
+          "logoUrl": "https://example.com/images/companies/amblin-logo.jpg"
+        }
+      },
+      {
+        "id": "DIR-004",
+        "name": "Bong Joon-ho",
+        "description": "A South Korean filmmaker known for blending genres with sharp social commentary.",
+        "age": 54,
+        "isActive": true,
+        "birthDate": "1969-09-14",
+        "imageUrl": "https://github.com/SafEl03/project-json/blob/main/assets/directors/BongJoon-ho.jpeg?raw=true",
+        "nationality": "South Korean",
+        "awards": ["Academy Award", "BAFTA", "Golden Globe"],
+        "notableMovies": ["Parasite", "Memories of Murder", "Snowpiercer", "The Host", "Okja"],
+        "filmCompany": {
+          "id": "COMP-004",
+          "name": "Barunson E&A",
+          "foundedYear": 1996,
+          "founder": "Various",
+          "headquarters": "Seoul, South Korea",
+          "logoUrl": "https://example.com/images/companies/barunson-logo.jpg"
+        }
+      },
+      {
+        "id": "DIR-005",
+        "name": "Wes Anderson",
+        "description": "A unique director known for his whimsical storytelling and distinctive visual style.",
+        "age": 54,
+        "isActive": true,
+        "birthDate": "1969-05-01",
+        "imageUrl": "https://github.com/SafEl03/project-json/blob/main/assets/directors/WesAnderson.jpeg?raw=true",
+        "nationality": "American",
+        "awards": ["BAFTA", "Golden Globe"],
+        "notableMovies": ["The Grand Budapest Hotel", "Fantastic Mr. Fox", "Moonrise Kingdom", "The Royal Tenenbaums", "Isle of Dogs"],
+        "filmCompany": {
+          "id": "COMP-005",
+          "name": "American Empirical Pictures",
+          "foundedYear": 1998,
+          "founder": "Wes Anderson",
+          "headquarters": "Houston, USA",
+          "logoUrl": "https://example.com/images/companies/american-empirical-logo.jpg"
+        }
+      },
+      {
+        "id": "DIR-006",
+        "name": "George Miller",
+        "description": "An Australian director famous for his work in dystopian action films.",
+        "age": 78,
+        "isActive": true,
+        "birthDate": "1945-03-03",
+        "imageUrl": "https://github.com/SafEl03/project-json/blob/main/assets/directors/GeorgeMiller.jpeg?raw=true",
+        "nationality": "Australian",
+        "awards": ["Academy Award", "BAFTA", "Golden Globe"],
+        "notableMovies": ["Mad Max: Fury Road", "Mad Max", "Babe", "Happy Feet", "The Witches of Eastwick"],
+        "filmCompany": {
+          "id": "COMP-006",
+          "name": "Kennedy Miller Mitchell",
+          "foundedYear": 1978,
+          "founder": "George Miller",
+          "headquarters": "Sydney, Australia",
+          "logoUrl": "https://example.com/images/companies/kennedy-miller.jpg"
+        }
+      },
+      {
+        "id": "DIR-007",
+        "name": "Guillermo del Toro",
+        "description": "A visionary filmmaker known for his gothic horror and fantasy works.",
+        "age": 59,
+        "isActive": true,
+        "birthDate": "1964-10-09",
+        "imageUrl": "https://github.com/SafEl03/project-json/blob/main/assets/directors/GuillermodelToro.jpeg?raw=true",
+        "nationality": "Mexican",
+        "awards": ["Academy Award", "BAFTA", "Golden Globe"],
+        "notableMovies": ["The Shape of Water", "Pan's Labyrinth", "Crimson Peak", "Pacific Rim", "Hellboy"],
+        "filmCompany": {
+          "id": "COMP-007",
+          "name": "Necropia Entertainment",
+          "foundedYear": 1997,
+          "founder": "Guillermo del Toro",
+          "headquarters": "Guadalajara, Mexico",
+          "logoUrl": "https://example.com/images/companies/necropia-logo.jpg"
+        }
+      },
+      {
+        "id": "DIR-008",
+        "name": "Alejandro González Iñárritu",
+        "description": "A Mexican director known for his visually striking and emotional storytelling.",
+        "age": 60,
+        "isActive": true,
+        "birthDate": "1963-08-15",
+        "imageUrl": "https://github.com/SafEl03/project-json/blob/main/assets/directors/AlejandroGonz%C3%A1lezI%C3%B1%C3%A1rritu.jpeg?raw=true",
+        "nationality": "Mexican",
+        "awards": ["Academy Award", "BAFTA", "Golden Globe"],
+        "notableMovies": ["The Revenant", "Birdman", "Babel", "Amores Perros", "21 Grams"],
+        "filmCompany": {
+          "id": "COMP-008",
+          "name": "Cha Cha Cha Films",
+          "foundedYear": 2007,
+          "founder": "Alejandro González Iñárritu",
+          "headquarters": "Mexico City, Mexico",
+          "logoUrl": "https://example.com/images/companies/chachacha-logo.jpg"
+        }
+      },
+      {
+        "id": "DIR-009",
+        "name": "Damien Chazelle",
+        "description": "An American director known for his musical storytelling and vibrant cinematography.",
+        "age": 39,
+        "isActive": true,
+        "birthDate": "1985-01-19",
+        "imageUrl": "https://github.com/SafEl03/project-json/blob/main/assets/directors/DamienChazelle.jpeg?raw=true",
+        "nationality": "American",
+        "awards": ["Academy Award", "Golden Globe", "BAFTA"],
+        "notableMovies": ["Whiplash", "La La Land", "First Man", "Babylon"],
+        "filmCompany": {
+          "id": "COMP-009",
+          "name": "Bold Films",
+          "foundedYear": 2004,
+          "founder": "Michel Litvak",
+          "headquarters": "Los Angeles, USA",
+          "logoUrl": "https://example.com/images/companies/bold-films-logo.jpg"
+        }
+      },
+      {
+        "id": "DIR-010",
+        "name": "Martin Scorsese",
+        "description": "A legendary filmmaker renowned for his impactful crime and drama films.",
+        "age": 81,
+        "isActive": true,
+        "birthDate": "1942-11-17",
+        "imageUrl": "https://github.com/SafEl03/project-json/blob/main/assets/directors/MartinScorsese.jpeg?raw=true",
+        "nationality": "American",
+        "awards": ["Academy Award", "BAFTA", "Golden Globe"],
+        "notableMovies": ["Goodfellas", "Taxi Driver", "The Wolf of Wall Street", "The Irishman", "Casino"],
+        "filmCompany": {
+          "id": "COMP-010",
+          "name": "Sikelia Productions",
+          "foundedYear": 1989,
+          "founder": "Martin Scorsese",
+          "headquarters": "New York, USA",
+          "logoUrl": "https://example.com/images/companies/sikelia-logo.jpg"
+        }
+      }
+]

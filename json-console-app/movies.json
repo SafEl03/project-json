@@ -1,0 +1,182 @@
+[
+    {
+        "id": "CIN-001",
+        "name": "Inception",
+        "description": "A mind-bending thriller that explores the depths of dreams and reality.",
+        "releaseYear": 2010,
+        "isPopular": true,
+        "releaseDate": "2010-07-16",
+        "imageUrl": "https://github.com/SafEl03/project-json/blob/main/assets/movies/Inception.jpeg?raw=true",
+        "genre": "Science Fiction",
+        "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+        "director": {
+          "id": "DIR-001",
+          "name": "Christopher Nolan",
+          "nationality": "British-American",
+          "awards": 10,
+          "imageUrl": "https://example.com/images/directors/nolan.jpg"
+        }
+      },
+      {
+        "id": "CIN-002",
+        "name": "Pulp Fiction",
+        "description": "A nonlinear crime drama interwoven with dark humor and unforgettable characters.",
+        "releaseYear": 1994,
+        "isPopular": true,
+        "releaseDate": "1994-10-14",
+        "imageUrl": "https://github.com/SafEl03/project-json/blob/main/assets/movies/PulpFiction.jpeg?raw=true",
+        "genre": "Crime",
+        "actors": ["John Travolta", "Samuel L. Jackson", "Uma Thurman"],
+        "director": {
+          "id": "DIR-002",
+          "name": "Quentin Tarantino",
+          "nationality": "American",
+          "awards": 8,
+          "imageUrl": "https://example.com/images/directors/tarantino.jpg"
+        }
+      },
+      {
+        "id": "CIN-003",
+        "name": "Schindler's List",
+        "description": "A powerful historical drama about a man who saved hundreds during the Holocaust.",
+        "releaseYear": 1993,
+        "isPopular": true,
+        "releaseDate": "1993-12-15",
+        "imageUrl": "https://github.com/SafEl03/project-json/blob/main/assets/movies/Schindler'sList.jpeg?raw=true",
+        "genre": "Drama",
+        "actors": ["Liam Neeson", "Ralph Fiennes", "Ben Kingsley"],
+        "director": {
+          "id": "DIR-003",
+          "name": "Steven Spielberg",
+          "nationality": "American",
+          "awards": 12,
+          "imageUrl": "https://example.com/images/directors/spielberg.jpg"
+        }
+      },
+      {
+        "id": "CIN-004",
+        "name": "Parasite",
+        "description": "A dark satire on class struggle that blends comedy and thriller elements.",
+        "releaseYear": 2019,
+        "isPopular": true,
+        "releaseDate": "2019-05-30",
+        "imageUrl": "https://github.com/SafEl03/project-json/blob/main/assets/movies/Parasite.jpeg?raw=true",
+        "genre": "Thriller",
+        "actors": ["Song Kang-ho", "Lee Sun-kyun", "Cho Yeo-jeong"],
+        "director": {
+          "id": "DIR-004",
+          "name": "Bong Joon-ho",
+          "nationality": "South Korean",
+          "awards": 10,
+          "imageUrl": "https://example.com/images/directors/bong.jpg"
+        }
+      },
+      {
+        "id": "CIN-005",
+        "name": "The Grand Budapest Hotel",
+        "description": "A whimsical tale of a hotel concierge navigating a complex adventure.",
+        "releaseYear": 2014,
+        "isPopular": true,
+        "releaseDate": "2014-03-28",
+        "imageUrl": "https://github.com/SafEl03/project-json/blob/main/assets/movies/TheGrandBudapestHotel.jpeg?raw=true",
+        "genre": "Comedy",
+        "actors": ["Ralph Fiennes", "F. Murray Abraham", "Mathieu Amalric"],
+        "director": {
+          "id": "DIR-005",
+          "name": "Wes Anderson",
+          "nationality": "American",
+          "awards": 7,
+          "imageUrl": "https://example.com/images/directors/wes.jpg"
+        }
+      },
+      {
+        "id": "CIN-006",
+        "name": "Mad Max: Fury Road",
+        "description": "A high-octane dystopian chase through a post-apocalyptic wasteland.",
+        "releaseYear": 2015,
+        "isPopular": true,
+        "releaseDate": "2015-05-15",
+        "imageUrl": "https://github.com/SafEl03/project-json/blob/main/assets/movies/MadMax.jpeg?raw=true",
+        "genre": "Action",
+        "actors": ["Tom Hardy", "Charlize Theron", "Nicholas Hoult"],
+        "director": {
+          "id": "DIR-006",
+          "name": "George Miller",
+          "nationality": "Australian",
+          "awards": 6,
+          "imageUrl": "https://example.com/images/directors/miller.jpg"
+        }
+      },
+      {
+        "id": "CIN-007",
+        "name": "The Shape of Water",
+        "description": "A poetic and unique love story between a mute woman and a mysterious creature.",
+        "releaseYear": 2017,
+        "isPopular": true,
+        "releaseDate": "2017-12-01",
+        "imageUrl": "https://github.com/SafEl03/project-json/blob/main/assets/movies/TheShapeofWater.jpeg?raw=true",
+        "genre": "Fantasy",
+        "actors": ["Sally Hawkins", "Doug Jones", "Michael Shannon"],
+        "director": {
+          "id": "DIR-007",
+          "name": "Guillermo del Toro",
+          "nationality": "Mexican",
+          "awards": 9,
+          "imageUrl": "https://example.com/images/directors/del-toro.jpg"
+        }
+      },
+      {
+        "id": "CIN-008",
+        "name": "Django Unchained",
+        "description": "A brutal yet stylish western revenge tale.",
+        "releaseYear": 2012,
+        "isPopular": true,
+        "releaseDate": "2012-12-25",
+        "imageUrl": "https://github.com/SafEl03/project-json/blob/main/assets/movies/DjangoUnchained.jpeg?raw=true",
+        "genre": "Western",
+        "actors": ["Jamie Foxx", "Christoph Waltz", "Leonardo DiCaprio"],
+        "director": {
+          "id": "DIR-002",
+          "name": "Quentin Tarantino",
+          "nationality": "American",
+          "awards": 9,
+          "imageUrl": "https://example.com/images/directors/tarantino.jpg"
+        }
+      } ,
+      {
+        "id": "CIN-009",
+        "name": "The Revenant",
+        "description": "A harrowing survival tale of a frontiersman left for dead who seeks revenge.",
+        "releaseYear": 2015,
+        "isPopular": true,
+        "releaseDate": "2015-12-25",
+        "imageUrl": "https://github.com/SafEl03/project-json/blob/main/assets/movies/TheRevenant.jpeg?raw=true",
+        "genre": "Adventure",
+        "actors": ["Leonardo DiCaprio", "Tom Hardy", "Domhnall Gleeson"],
+        "director": {
+          "id": "DIR-008",
+          "name": "Alejandro González Iñárritu",
+          "nationality": "Mexican",
+          "awards": 8,
+          "imageUrl": "https://example.com/images/directors/inarritu.jpg"
+        }
+      },
+      {
+        "id": "CIN-010",
+        "name": "Whiplash",
+        "description": "A young drummer's journey through the brutal world of jazz education.",
+        "releaseYear": 2014,
+        "isPopular": true,
+        "releaseDate": "2014-10-10",
+        "imageUrl": "https://github.com/SafEl03/project-json/blob/main/assets/movies/Whiplash.jpeg?raw=true",
+        "genre": "Drama",
+        "actors": ["Miles Teller", "J.K. Simmons", "Paul Reiser"],
+        "director": {
+          "id": "DIR-009",
+          "name": "Damien Chazelle",
+          "nationality": "American",
+          "awards": 7,
+          "imageUrl": "https://example.com/images/directors/chazelle.jpg"
+        }
+      }
+]
